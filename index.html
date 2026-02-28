@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>通知测试</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0; background: #f0f2f5; }
+        button { padding: 15px 30px; font-size: 18px; cursor: pointer; background-color: #007bff; color: white; border: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        button:active { background-color: #0056b3; }
+        p { margin-top: 20px; color: #666; text-align: center; padding: 0 20px; }
+    </style>
+</head>
+<body>
+
+    <button id="startBtn">开启每 5 秒通知</button>
+    <p id="status">点击按钮并授权通知权限</p>
+
+    <script>
+        const startBtn = document.querySelector('#startBtn');
+        const statusText = document.querySelector('#status');
+
+        // 1. 注册 Service Worker (移动端 Chrome 必须)
+        if ('serviceWorker' in navigator) {
+            const swCode = `
+                self.addEventListener('install', () => self.skipWaiting());
+                self.addEventListener('activate', () => self.clients.claim());
+                self.addEventListener('message', (event) => {
+                    if (event.data.action === 'notify') {
+                        self.registration.showNotification('通知', {
+                            body: '1',
+                            icon: 'https://cdn-icons-png.flaticon.com/512/1827/1827347.png'
+                        });
+                    }
+                });
+            `;
+            const blob = new Blob([swCode], { type: 'application/javascript' });
+            const swUrl = URL.createObjectURL(blob);
+            navigator.serviceWorker.register(swUrl);
+        }
+
+        startBtn.addEventListener('click', async () => {
+            // 请求权限
+            const permission = await Notification.requestPermission();
+            
+            if (permission === 'granted') {
+                statusText.innerText = "通知已开启，每 5 秒发送一次 '1'";
+                startBtn.disabled = true;
+                startBtn.innerText = "运行中...";
+
+                // 每 5 秒发送消息给 Service Worker 触发通知
+                setInterval(() => {
+                    if (navigator.serviceWorker.controller) {
+                        navigator.serviceWorker.controller.postMessage({ action: 'notify' });
+                    } else {
+                        // 降级方案：如果 SW 还没准备好，尝试普通通知
+                        new Notification("通知", { body: "1" });
+                    }
+                }, 5000);
+            } else {
+                statusText.innerText = "权限被拒绝，请在浏览器设置中开启通知。";
+            }
+        });
+    </script>
+</body>
+</html>

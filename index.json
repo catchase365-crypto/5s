@@ -190,6 +190,158 @@
         "duration": "",
         "path": "Worldview/9.全球治理体系的转型与挑战.md",
         "type": "file"
+      },
+      {
+        "name": "European Union",
+        "type": "dir",
+        "children": [
+          {
+            "name": "Game",
+            "type": "dir",
+            "children": [
+              {
+                "name": "1.欧洲一体化的地缘政治起源与法德轴心构建.md",
+                "title": "1.欧洲一体化的地缘政治起源与法德轴心构建",
+                "duration": "",
+                "path": "Worldview/European Union/Game/1.欧洲一体化的地缘政治起源与法德轴心构建.md",
+                "type": "file"
+              },
+              {
+                "name": "10.欧盟与俄罗斯在东欧前沿的地缘角力.md",
+                "title": "10.欧盟与俄罗斯在东欧前沿的地缘角力",
+                "duration": "",
+                "path": "Worldview/European Union/Game/10.欧盟与俄罗斯在东欧前沿的地缘角力.md",
+                "type": "file"
+              },
+              {
+                "name": "11.中欧经贸关系的演变与地缘经济博弈.md",
+                "title": "11.中欧经贸关系的演变与地缘经济博弈",
+                "duration": "",
+                "path": "Worldview/European Union/Game/11.中欧经贸关系的演变与地缘经济博弈.md",
+                "type": "file"
+              },
+              {
+                "name": "12.欧盟数字监管战略与全球科技竞争.md",
+                "title": "12.欧盟数字监管战略与全球科技竞争",
+                "duration": "",
+                "path": "Worldview/European Union/Game/12.欧盟数字监管战略与全球科技竞争.md",
+                "type": "file"
+              },
+              {
+                "name": "13.绿色新政背景下的欧盟工业转型与能源安全.md",
+                "title": "13.绿色新政背景下的欧盟工业转型与能源安全",
+                "duration": "",
+                "path": "Worldview/European Union/Game/13.绿色新政背景下的欧盟工业转型与能源安全.md",
+                "type": "file"
+              },
+              {
+                "name": "14.难民危机引发的欧盟内部价值观与身份政治裂痕.md",
+                "title": "14.难民危机引发的欧盟内部价值观与身份政治裂痕",
+                "duration": "",
+                "path": "Worldview/European Union/Game/14.难民危机引发的欧盟内部价值观与身份政治裂痕.md",
+                "type": "file"
+              },
+              {
+                "name": "15.民粹主义浪潮对欧盟超国家治理的挑战.md",
+                "title": "15.民粹主义浪潮对欧盟超国家治理的挑战",
+                "duration": "",
+                "path": "Worldview/European Union/Game/15.民粹主义浪潮对欧盟超国家治理的挑战.md",
+                "type": "file"
+              },
+              {
+                "name": "16.欧盟战略自主诉求与大国竞争下的平衡术.md",
+                "title": "16.欧盟战略自主诉求与大国竞争下的平衡术",
+                "duration": "",
+                "path": "Worldview/European Union/Game/16.欧盟战略自主诉求与大国竞争下的平衡术.md",
+                "type": "file"
+              },
+              {
+                "name": "17.法德轴心与波兰匈牙利阵营的内部对抗.md",
+                "title": "17.法德轴心与波兰匈牙利阵营的内部对抗",
+                "duration": "",
+                "path": "Worldview/European Union/Game/17.法德轴心与波兰匈牙利阵营的内部对抗.md",
+                "type": "file"
+              },
+              {
+                "name": "18.欧盟防务一体化的曲折道路与北约共生.md",
+                "title": "18.欧盟防务一体化的曲折道路与北约共生",
+                "duration": "",
+                "path": "Worldview/European Union/Game/18.欧盟防务一体化的曲折道路与北约共生.md",
+                "type": "file"
+              },
+              {
+                "name": "19.全球治理视角下欧盟作为规范性力量的得失.md",
+                "title": "19.全球治理视角下欧盟作为规范性力量的得失",
+                "duration": "",
+                "path": "Worldview/European Union/Game/19.全球治理视角下欧盟作为规范性力量的得失.md",
+                "type": "file"
+              },
+              {
+                "name": "2.冷战铁幕下的欧洲重建与共同市场雏形.md",
+                "title": "2.冷战铁幕下的欧洲重建与共同市场雏形",
+                "duration": "",
+                "path": "Worldview/European Union/Game/2.冷战铁幕下的欧洲重建与共同市场雏形.md",
+                "type": "file"
+              },
+              {
+                "name": "20.多重危机下的欧盟未来叙事与分权博弈.md",
+                "title": "20.多重危机下的欧盟未来叙事与分权博弈",
+                "duration": "",
+                "path": "Worldview/European Union/Game/20.多重危机下的欧盟未来叙事与分权博弈.md",
+                "type": "file"
+              },
+              {
+                "name": "3.从欧共体到欧盟的权力结构演变与主权博弈.md",
+                "title": "3.从欧共体到欧盟的权力结构演变与主权博弈",
+                "duration": "",
+                "path": "Worldview/European Union/Game/3.从欧共体到欧盟的权力结构演变与主权博弈.md",
+                "type": "file"
+              },
+              {
+                "name": "4.马斯特里赫特条约与欧元体系的制度化困境.md",
+                "title": "4.马斯特里赫特条约与欧元体系的制度化困境",
+                "duration": "",
+                "path": "Worldview/European Union/Game/4.马斯特里赫特条约与欧元体系的制度化困境.md",
+                "type": "file"
+              },
+              {
+                "name": "5.欧盟东扩进程中的地缘战略考量与摩擦.md",
+                "title": "5.欧盟东扩进程中的地缘战略考量与摩擦",
+                "duration": "",
+                "path": "Worldview/European Union/Game/5.欧盟东扩进程中的地缘战略考量与摩擦.md",
+                "type": "file"
+              },
+              {
+                "name": "6.欧债危机对欧盟财政一体化进程的冲击.md",
+                "title": "6.欧债危机对欧盟财政一体化进程的冲击",
+                "duration": "",
+                "path": "Worldview/European Union/Game/6.欧债危机对欧盟财政一体化进程的冲击.md",
+                "type": "file"
+              },
+              {
+                "name": "7.英国脱欧背后的政治经济动因与多米诺效应.md",
+                "title": "7.英国脱欧背后的政治经济动因与多米诺效应",
+                "duration": "",
+                "path": "Worldview/European Union/Game/7.英国脱欧背后的政治经济动因与多米诺效应.md",
+                "type": "file"
+              },
+              {
+                "name": "8.欧盟共同外交与安全政策的理想与现实.md",
+                "title": "8.欧盟共同外交与安全政策的理想与现实",
+                "duration": "",
+                "path": "Worldview/European Union/Game/8.欧盟共同外交与安全政策的理想与现实.md",
+                "type": "file"
+              },
+              {
+                "name": "9.跨大西洋联盟与美欧关系的复杂互动.md",
+                "title": "9.跨大西洋联盟与美欧关系的复杂互动",
+                "duration": "",
+                "path": "Worldview/European Union/Game/9.跨大西洋联盟与美欧关系的复杂互动.md",
+                "type": "file"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Marketing",
+    "type": "dir",
+    "children": [
+      {
+        "name": "1 现代营销学底层逻辑.md",
+        "title": "1 现代营销学底层逻辑",
+        "duration": "",
+        "path": "Marketing/1 现代营销学底层逻辑.md",
+        "type": "file"
+      },
+      {
+        "name": "10 跨界联名的出圈策略.md",
+        "title": "10 跨界联名的出圈策略",
+        "duration": "",
+        "path": "Marketing/10 跨界联名的出圈策略.md",
+        "type": "file"
+      },
+      {
+        "name": "11 增长黑客的实战手册.md",
+        "title": "11 增长黑客的实战手册",
+        "duration": "",
+        "path": "Marketing/11 增长黑客的实战手册.md",
+        "type": "file"
+      },
+      {
+        "name": "12 新零售时代的渠道重构.md",
+        "title": "12 新零售时代的渠道重构",
+        "duration": "",
+        "path": "Marketing/12 新零售时代的渠道重构.md",
+        "type": "file"
+      },
+      {
+        "name": "13 情感营销的共鸣艺术.md",
+        "title": "13 情感营销的共鸣艺术",
+        "duration": "",
+        "path": "Marketing/13 情感营销的共鸣艺术.md",
+        "type": "file"
+      },
+      {
+        "name": "14 视觉传播的视觉锤策略.md",
+        "title": "14 视觉传播的视觉锤策略",
+        "duration": "",
+        "path": "Marketing/14 视觉传播的视觉锤策略.md",
+        "type": "file"
+      },
+      {
+        "name": "15 营销自动化的落地指南.md",
+        "title": "15 营销自动化的落地指南",
+        "duration": "",
+        "path": "Marketing/15 营销自动化的落地指南.md",
+        "type": "file"
+      },
+      {
+        "name": "2 品牌增长的飞轮效应.md",
+        "title": "2 品牌增长的飞轮效应",
+        "duration": "",
+        "path": "Marketing/2 品牌增长的飞轮效应.md",
+        "type": "file"
+      },
+      {
+        "name": "3 消费者心理决策指南.md",
+        "title": "3 消费者心理决策指南",
+        "duration": "",
+        "path": "Marketing/3 消费者心理决策指南.md",
+        "type": "file"
+      },
+      {
+        "name": "4 数据驱动的精准获客.md",
+        "title": "4 数据驱动的精准获客",
+        "duration": "",
+        "path": "Marketing/4 数据驱动的精准获客.md",
+        "type": "file"
+      },
+      {
+        "name": "5 内容营销的爆款逻辑.md",
+        "title": "5 内容营销的爆款逻辑",
+        "duration": "",
+        "path": "Marketing/5 内容营销的爆款逻辑.md",
+        "type": "file"
+      },
+      {
+        "name": "6 数字化时代的社交裂变.md",
+        "title": "6 数字化时代的社交裂变",
+        "duration": "",
+        "path": "Marketing/6 数字化时代的社交裂变.md",
+        "type": "file"
+      },
+      {
+        "name": "7 品牌定位的差异化战略.md",
+        "title": "7 品牌定位的差异化战略",
+        "duration": "",
+        "path": "Marketing/7 品牌定位的差异化战略.md",
+        "type": "file"
+      },
+      {
+        "name": "8 营销漏斗的转化真相.md",
+        "title": "8 营销漏斗的转化真相",
+        "duration": "",
+        "path": "Marketing/8 营销漏斗的转化真相.md",
+        "type": "file"
+      },
+      {
+        "name": "9 社群运营的留存法则.md",
+        "title": "9 社群运营的留存法则",
+        "duration": "",
+        "path": "Marketing/9 社群运营的留存法则.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "README.md",
+    "title": "README",
+    "duration": "",
+    "path": "README.md",
+    "type": "file"
+  },
+  {
+    "name": "image",
+    "type": "dir",
+    "children": []
+  },
+  {
+    "name": "md",
+    "type": "dir",
+    "children": [
+      {
+        "name": "第一卷 情绪的内耗与突围.md",
+        "title": "第一卷 情绪的内耗与突围",
+        "duration": "",
+        "path": "md/第一卷 情绪的内耗与突围.md",
+        "type": "file"
+      },
+      {
+        "name": "第七卷 认知重构与思维升级.md",
+        "title": "第七卷 认知重构与思维升级",
+        "duration": "",
+        "path": "md/第七卷 认知重构与思维升级.md",
+        "type": "file"
+      },
+      {
+        "name": "第三卷 深度睡眠与大脑重塑.md",
+        "title": "第三卷 深度睡眠与大脑重塑",
+        "duration": "",
+        "path": "md/第三卷 深度睡眠与大脑重塑.md",
+        "type": "file"
+      },
+      {
+        "name": "第九卷 依恋类型与人格成长.md",
+        "title": "第九卷 依恋类型与人格成长",
+        "duration": "",
+        "path": "md/第九卷 依恋类型与人格成长.md",
+        "type": "file"
+      },
+      {
+        "name": "第二卷 掌控社交的隐形规则.md",
+        "title": "第二卷 掌控社交的隐形规则",
+        "duration": "",
+        "path": "md/第二卷 掌控社交的隐形规则.md",
+        "type": "file"
+      },
+      {
+        "name": "第五卷 职场生存的心理博弈.md",
+        "title": "第五卷 职场生存的心理博弈",
+        "duration": "",
+        "path": "md/第五卷 职场生存的心理博弈.md",
+        "type": "file"
+      },
+      {
+        "name": "第八卷 行为习惯的微小变革.md",
+        "title": "第八卷 行为习惯的微小变革",
+        "duration": "",
+        "path": "md/第八卷 行为习惯的微小变革.md",
+        "type": "file"
+      },
+      {
+        "name": "第六卷 焦虑时代的专注力训练.md",
+        "title": "第六卷 焦虑时代的专注力训练",
+        "duration": "",
+        "path": "md/第六卷 焦虑时代的专注力训练.md",
+        "type": "file"
+      },
+      {
+        "name": "第十一卷 压力管理的心理弹性.md",
+        "title": "第十一卷 压力管理的心理弹性",
+        "duration": "",
+        "path": "md/第十一卷 压力管理的心理弹性.md",
+        "type": "file"
+      },
+      {
+        "name": "第十二卷 深度共情的沟通艺术.md",
+        "title": "第十二卷 深度共情的沟通艺术",
+        "duration": "",
+        "path": "md/第十二卷 深度共情的沟通艺术.md",
+        "type": "file"
+      },
+      {
+        "name": "第十卷 自我定义的边界感.md",
+        "title": "第十卷 自我定义的边界感",
+        "duration": "",
+        "path": "md/第十卷 自我定义的边界感.md",
+        "type": "file"
+      },
+      {
+        "name": "第四卷 亲密关系的博弈与修补.md",
+        "title": "第四卷 亲密关系的博弈与修补",
+        "duration": "",
+        "path": "md/第四卷 亲密关系的博弈与修补.md",
+        "type": "file"
+      },
+      {
+        "name": "认知重构：重塑大脑的思维蓝图.md",
+        "title": "认知重构：重塑大脑的思维蓝图",
+        "duration": "",
+        "path": "md/认知重构：重塑大脑的思维蓝图.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "science",
+    "type": "dir",
+    "children": [
+      {
+        "name": "physiology",
+        "type": "dir",
+        "children": [
+          {
+            "name": "第一卷：生命之网的基石.md",
+            "title": "第一卷：生命之网的基石",
+            "duration": "",
+            "path": "science/physiology/第一卷：生命之网的基石.md",
+            "type": "file"
+          },
+          {
+            "name": "第七卷：神经系统的电流传导.md",
+            "title": "第七卷：神经系统的电流传导",
+            "duration": "",
+            "path": "science/physiology/第七卷：神经系统的电流传导.md",
+            "type": "file"
+          },
+          {
+            "name": "第三卷：能量循环的内燃机.md",
+            "title": "第三卷：能量循环的内燃机",
+            "duration": "",
+            "path": "science/physiology/第三卷：能量循环的内燃机.md",
+            "type": "file"
+          },
+          {
+            "name": "第九卷：免疫系统的防线守卫.md",
+            "title": "第九卷：免疫系统的防线守卫",
+            "duration": "",
+            "path": "science/physiology/第九卷：免疫系统的防线守卫.md",
+            "type": "file"
+          },
+          {
+            "name": "第二卷：细胞的微观交响.md",
+            "title": "第二卷：细胞的微观交响",
+            "duration": "",
+            "path": "science/physiology/第二卷：细胞的微观交响.md",
+            "type": "file"
+          },
+          {
+            "name": "第五卷：呼吸之道的空气交换.md",
+            "title": "第五卷：呼吸之道的空气交换",
+            "duration": "",
+            "path": "science/physiology/第五卷：呼吸之道的空气交换.md",
+            "type": "file"
+          },
+          {
+            "name": "第八卷：内分泌系统的化学指令.md",
+            "title": "第八卷：内分泌系统的化学指令",
+            "duration": "",
+            "path": "science/physiology/第八卷：内分泌系统的化学指令.md",
+            "type": "file"
+          },
+          {
+            "name": "第六卷：消化系统的能量炼金术.md",
+            "title": "第六卷：消化系统的能量炼金术",
+            "duration": "",
+            "path": "science/physiology/第六卷：消化系统的能量炼金术.md",
+            "type": "file"
+          },
+          {
+            "name": "第十卷：生殖与生命的基因传承.md",
+            "title": "第十卷：生殖与生命的基因传承",
+            "duration": "",
+            "path": "science/physiology/第十卷：生殖与生命的基因传承.md",
+            "type": "file"
+          },
+          {
+            "name": "第四卷：循环系统的生命脉动.md",
+            "title": "第四卷：循环系统的生命脉动",
+            "duration": "",
+            "path": "science/physiology/第四卷：循环系统的生命脉动.md",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  }
+]

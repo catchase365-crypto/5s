@@ -118,6 +118,82 @@
     "type": "file"
   },
   {
+    "name": "Worldview",
+    "type": "dir",
+    "children": [
+      {
+        "name": "1.大国博弈的战略终局.md",
+        "title": "1.大国博弈的战略终局",
+        "duration": "",
+        "path": "Worldview/1.大国博弈的战略终局.md",
+        "type": "file"
+      },
+      {
+        "name": "10.中美关系的历史逻辑与未来走向.md",
+        "title": "10.中美关系的历史逻辑与未来走向",
+        "duration": "",
+        "path": "Worldview/10.中美关系的历史逻辑与未来走向.md",
+        "type": "file"
+      },
+      {
+        "name": "2.贸易战背后的地缘政治.md",
+        "title": "2.贸易战背后的地缘政治",
+        "duration": "",
+        "path": "Worldview/2.贸易战背后的地缘政治.md",
+        "type": "file"
+      },
+      {
+        "name": "3.科技封锁与自主创新之路.md",
+        "title": "3.科技封锁与自主创新之路",
+        "duration": "",
+        "path": "Worldview/3.科技封锁与自主创新之路.md",
+        "type": "file"
+      },
+      {
+        "name": "4.金融霸权与货币战争.md",
+        "title": "4.金融霸权与货币战争",
+        "duration": "",
+        "path": "Worldview/4.金融霸权与货币战争.md",
+        "type": "file"
+      },
+      {
+        "name": "5.全球供应链的重构与脱钩.md",
+        "title": "5.全球供应链的重构与脱钩",
+        "duration": "",
+        "path": "Worldview/5.全球供应链的重构与脱钩.md",
+        "type": "file"
+      },
+      {
+        "name": "6.意识形态的冲突与文明对话.md",
+        "title": "6.意识形态的冲突与文明对话",
+        "duration": "",
+        "path": "Worldview/6.意识形态的冲突与文明对话.md",
+        "type": "file"
+      },
+      {
+        "name": "7.军事威慑与亚太安全格局.md",
+        "title": "7.军事威慑与亚太安全格局",
+        "duration": "",
+        "path": "Worldview/7.军事威慑与亚太安全格局.md",
+        "type": "file"
+      },
+      {
+        "name": "8.数字主权与未来网络空间.md",
+        "title": "8.数字主权与未来网络空间",
+        "duration": "",
+        "path": "Worldview/8.数字主权与未来网络空间.md",
+        "type": "file"
+      },
+      {
+        "name": "9.全球治理体系的转型与挑战.md",
+        "title": "9.全球治理体系的转型与挑战",
+        "duration": "",
+        "path": "Worldview/9.全球治理体系的转型与挑战.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
     "name": "image",
     "type": "dir",
     "children": []

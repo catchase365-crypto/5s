@@ -346,6 +346,152 @@
     ]
   },
   {
+    "name": "deepthink",
+    "type": "dir",
+    "children": [
+      {
+        "name": "1.重塑：被刻意屏蔽的战略真相.md",
+        "title": "1.重塑：被刻意屏蔽的战略真相",
+        "duration": "",
+        "path": "deepthink/1.重塑：被刻意屏蔽的战略真相.md",
+        "type": "file"
+      },
+      {
+        "name": "10.觉察：被精密设计的社会坐标.md",
+        "title": "10.觉察：被精密设计的社会坐标",
+        "duration": "",
+        "path": "deepthink/10.觉察：被精密设计的社会坐标.md",
+        "type": "file"
+      },
+      {
+        "name": "11.反思：被主流观点规训的真相.md",
+        "title": "11.反思：被主流观点规训的真相",
+        "duration": "",
+        "path": "deepthink/11.反思：被主流观点规训的真相.md",
+        "type": "file"
+      },
+      {
+        "name": "12.重写：在灰度空间里的博弈术.md",
+        "title": "12.重写：在灰度空间里的博弈术",
+        "duration": "",
+        "path": "deepthink/12.重写：在灰度空间里的博弈术.md",
+        "type": "file"
+      },
+      {
+        "name": "13.抉择：被隐秘操纵的决策模型.md",
+        "title": "13.抉择：被隐秘操纵的决策模型",
+        "duration": "",
+        "path": "deepthink/13.抉择：被隐秘操纵的决策模型.md",
+        "type": "file"
+      },
+      {
+        "name": "14.突围：打破认知囚笼的行动纲领.md",
+        "title": "14.突围：打破认知囚笼的行动纲领",
+        "duration": "",
+        "path": "deepthink/14.突围：打破认知囚笼的行动纲领.md",
+        "type": "file"
+      },
+      {
+        "name": "15.深潜：被公众视线遮蔽的底层权力.md",
+        "title": "15.深潜：被公众视线遮蔽的底层权力",
+        "duration": "",
+        "path": "deepthink/15.深潜：被公众视线遮蔽的底层权力.md",
+        "type": "file"
+      },
+      {
+        "name": "16.重塑：被重写的历史与未来.md",
+        "title": "16.重塑：被重写的历史与未来",
+        "duration": "",
+        "path": "deepthink/16.重塑：被重写的历史与未来.md",
+        "type": "file"
+      },
+      {
+        "name": "17.觉悟：被时代洪流淹没的真相.md",
+        "title": "17.觉悟：被时代洪流淹没的真相",
+        "duration": "",
+        "path": "deepthink/17.觉悟：被时代洪流淹没的真相.md",
+        "type": "file"
+      },
+      {
+        "name": "18.破晓：重构认知的思维利刃.md",
+        "title": "18.破晓：重构认知的思维利刃",
+        "duration": "",
+        "path": "deepthink/18.破晓：重构认知的思维利刃.md",
+        "type": "file"
+      },
+      {
+        "name": "19.洞见：被权力边界隔离的视野.md",
+        "title": "19.洞见：被权力边界隔离的视野",
+        "duration": "",
+        "path": "deepthink/19.洞见：被权力边界隔离的视野.md",
+        "type": "file"
+      },
+      {
+        "name": "2.破局：权力边缘的认知博弈.md",
+        "title": "2.破局：权力边缘的认知博弈",
+        "duration": "",
+        "path": "deepthink/2.破局：权力边缘的认知博弈.md",
+        "type": "file"
+      },
+      {
+        "name": "20.重生：重塑个人战略的终极思考.md",
+        "title": "20.重生：重塑个人战略的终极思考",
+        "duration": "",
+        "path": "deepthink/20.重生：重塑个人战略的终极思考.md",
+        "type": "file"
+      },
+      {
+        "name": "3.觉醒：被主流叙事掩盖的底层逻辑.md",
+        "title": "3.觉醒：被主流叙事掩盖的底层逻辑",
+        "duration": "",
+        "path": "deepthink/3.觉醒：被主流叙事掩盖的底层逻辑.md",
+        "type": "file"
+      },
+      {
+        "name": "4.裂变：从思维死角到全局掌控.md",
+        "title": "4.裂变：从思维死角到全局掌控",
+        "duration": "",
+        "path": "deepthink/4.裂变：从思维死角到全局掌控.md",
+        "type": "file"
+      },
+      {
+        "name": "5.博弈：规则之外的博弈法则.md",
+        "title": "5.博弈：规则之外的博弈法则",
+        "duration": "",
+        "path": "deepthink/5.博弈：规则之外的博弈法则.md",
+        "type": "file"
+      },
+      {
+        "name": "6.洞察：被时代遗忘的真相碎片.md",
+        "title": "6.洞察：被时代遗忘的真相碎片",
+        "duration": "",
+        "path": "deepthink/6.洞察：被时代遗忘的真相碎片.md",
+        "type": "file"
+      },
+      {
+        "name": "7.重构：打破信息壁垒的认知突围.md",
+        "title": "7.重构：打破信息壁垒的认知突围",
+        "duration": "",
+        "path": "deepthink/7.重构：打破信息壁垒的认知突围.md",
+        "type": "file"
+      },
+      {
+        "name": "8.蛰伏：精英阶层不宣之秘.md",
+        "title": "8.蛰伏：精英阶层不宣之秘",
+        "duration": "",
+        "path": "deepthink/8.蛰伏：精英阶层不宣之秘.md",
+        "type": "file"
+      },
+      {
+        "name": "9.预判：穿越周期的生存法则.md",
+        "title": "9.预判：穿越周期的生存法则",
+        "duration": "",
+        "path": "deepthink/9.预判：穿越周期的生存法则.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
     "name": "image",
     "type": "dir",
     "children": []

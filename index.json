@@ -1,5 +1,157 @@
 [
   {
+    "name": "AI",
+    "type": "dir",
+    "children": [
+      {
+        "name": "Yann LeCun",
+        "type": "dir",
+        "children": [
+          {
+            "name": "1.从统计学习的局限看深度学习的本质.md",
+            "title": "1.从统计学习的局限看深度学习的本质",
+            "duration": "",
+            "path": "AI/Yann LeCun/1.从统计学习的局限看深度学习的本质.md",
+            "type": "file"
+          },
+          {
+            "name": "10.从因果推断理解智能的决策机制.md",
+            "title": "10.从因果推断理解智能的决策机制",
+            "duration": "",
+            "path": "AI/Yann LeCun/10.从因果推断理解智能的决策机制.md",
+            "type": "file"
+          },
+          {
+            "name": "11.世界模型的内部状态与预测误差.md",
+            "title": "11.世界模型的内部状态与预测误差",
+            "duration": "",
+            "path": "AI/Yann LeCun/11.世界模型的内部状态与预测误差.md",
+            "type": "file"
+          },
+          {
+            "name": "12.神经科学启发的AI架构演进路径.md",
+            "title": "12.神经科学启发的AI架构演进路径",
+            "duration": "",
+            "path": "AI/Yann LeCun/12.神经科学启发的AI架构演进路径.md",
+            "type": "file"
+          },
+          {
+            "name": "13.模块化神经网络与认知灵活性.md",
+            "title": "13.模块化神经网络与认知灵活性",
+            "duration": "",
+            "path": "AI/Yann LeCun/13.模块化神经网络与认知灵活性.md",
+            "type": "file"
+          },
+          {
+            "name": "14.分布式表征与人类语言的逻辑对齐.md",
+            "title": "14.分布式表征与人类语言的逻辑对齐",
+            "duration": "",
+            "path": "AI/Yann LeCun/14.分布式表征与人类语言的逻辑对齐.md",
+            "type": "file"
+          },
+          {
+            "name": "15.人工智能在物理世界中的具身交互.md",
+            "title": "15.人工智能在物理世界中的具身交互",
+            "duration": "",
+            "path": "AI/Yann LeCun/15.人工智能在物理世界中的具身交互.md",
+            "type": "file"
+          },
+          {
+            "name": "16.从自监督学习迈向人类水平的智能.md",
+            "title": "16.从自监督学习迈向人类水平的智能",
+            "duration": "",
+            "path": "AI/Yann LeCun/16.从自监督学习迈向人类水平的智能.md",
+            "type": "file"
+          },
+          {
+            "name": "17.模型参数与智能涌现的尺度律分析.md",
+            "title": "17.模型参数与智能涌现的尺度律分析",
+            "duration": "",
+            "path": "AI/Yann LeCun/17.模型参数与智能涌现的尺度律分析.md",
+            "type": "file"
+          },
+          {
+            "name": "18.多模态信息融合与感知系统的统一.md",
+            "title": "18.多模态信息融合与感知系统的统一",
+            "duration": "",
+            "path": "AI/Yann LeCun/18.多模态信息融合与感知系统的统一.md",
+            "type": "file"
+          },
+          {
+            "name": "19.基于能量函数优化的人工智能安全性.md",
+            "title": "19.基于能量函数优化的人工智能安全性",
+            "duration": "",
+            "path": "AI/Yann LeCun/19.基于能量函数优化的人工智能安全性.md",
+            "type": "file"
+          },
+          {
+            "name": "2.表征学习与自动特征提取的数学架构.md",
+            "title": "2.表征学习与自动特征提取的数学架构",
+            "duration": "",
+            "path": "AI/Yann LeCun/2.表征学习与自动特征提取的数学架构.md",
+            "type": "file"
+          },
+          {
+            "name": "20.构建通往人类级通用智能的科学路线图.md",
+            "title": "20.构建通往人类级通用智能的科学路线图",
+            "duration": "",
+            "path": "AI/Yann LeCun/20.构建通往人类级通用智能的科学路线图.md",
+            "type": "file"
+          },
+          {
+            "name": "3.能量模型与非监督学习的范式转换.md",
+            "title": "3.能量模型与非监督学习的范式转换",
+            "duration": "",
+            "path": "AI/Yann LeCun/3.能量模型与非监督学习的范式转换.md",
+            "type": "file"
+          },
+          {
+            "name": "4.从概率模型到世界模型的演进逻辑.md",
+            "title": "4.从概率模型到世界模型的演进逻辑",
+            "duration": "",
+            "path": "AI/Yann LeCun/4.从概率模型到世界模型的演进逻辑.md",
+            "type": "file"
+          },
+          {
+            "name": "5.常识推理在预测性学习中的缺失.md",
+            "title": "5.常识推理在预测性学习中的缺失",
+            "duration": "",
+            "path": "AI/Yann LeCun/5.常识推理在预测性学习中的缺失.md",
+            "type": "file"
+          },
+          {
+            "name": "6.自主人工智能与目标驱动的认知架构.md",
+            "title": "6.自主人工智能与目标驱动的认知架构",
+            "duration": "",
+            "path": "AI/Yann LeCun/6.自主人工智能与目标驱动的认知架构.md",
+            "type": "file"
+          },
+          {
+            "name": "7.神经网络为何需要分层级联的表征.md",
+            "title": "7.神经网络为何需要分层级联的表征",
+            "duration": "",
+            "path": "AI/Yann LeCun/7.神经网络为何需要分层级联的表征.md",
+            "type": "file"
+          },
+          {
+            "name": "8.超越反向传播的梯度优化前沿.md",
+            "title": "8.超越反向传播的梯度优化前沿",
+            "duration": "",
+            "path": "AI/Yann LeCun/8.超越反向传播的梯度优化前沿.md",
+            "type": "file"
+          },
+          {
+            "name": "9.客观世界在潜在空间中的几何映射.md",
+            "title": "9.客观世界在潜在空间中的几何映射",
+            "duration": "",
+            "path": "AI/Yann LeCun/9.客观世界在潜在空间中的几何映射.md",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Marketing",
     "type": "dir",
     "children": [
